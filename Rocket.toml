@@ -1,0 +1,5 @@
+[default]
+template_dir = "api/templates"
+
+[default.databases.sea_orm]
+url = "postgres://cherry4xo:256128@twodev.cc:2277/rust"
